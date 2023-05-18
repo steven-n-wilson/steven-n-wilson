@@ -6,7 +6,7 @@ I'm Steven Wilson. Welcome to my GitHub portfolio! As a passionate problem solve
 
 
 - :hammer: I am studying Computer Science at the University of Ottawa
-- ⚡ : I'm curious about agri-tech
+- ⚡ I'm curious about agri-tech
 
 → You can reach me at: [LinkedIn](https://www.linkedin.com/in/stevenwilsongt/) | [Email](mailto:stevenwilsonnunez@gmail.com)
 
