@@ -1,11 +1,14 @@
-### Hi there 👋
+### Hi there 👋 I'm Steven
 
-<!-- ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fsteven-n-wilson&labelColor=%23d9e3f0&countColor=%2337d67a)
- -->
-I'm Steven Wilson. Welcome to my GitHub portfolio! As a passionate problem solver, I strive to create meaningful work that makes a positive impact.
+#### About me
+
+I'm a Biomedical Engineering MASc Candidate at the University of Ottawa, passionate about the possibilities of combining technology and healthcare to solve complex medical challenges.  
 
 
-:hammer: I am studying Computer Science at the University of Ottawa<br>
+#### I'm currently working on 
+* A web application for melanoma skin cancer detection via images :hammer:
+* The recognition of prokaryotic and eukaryotic promoters using machine learning :hammer: 
 
-→ You can reach me at: [LinkedIn](https://www.linkedin.com/in/stevenwilsongt/) | [Email](mailto:stevenwilsonnunez@gmail.com)
+#### How to reach me?
+→ You can reach me at: [LinkedIn](https://www.linkedin.com/in/stevenwilsongt/) | swils129@uottawa.ca
 
